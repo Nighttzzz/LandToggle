@@ -1,0 +1,7 @@
+name: LandToggle
+version: 3.0
+main: br.com.landwars.devtest.plugner.landtoggle.Main
+author: Plugner
+depend: [Legendchat]
+commands:
+ toggle:
